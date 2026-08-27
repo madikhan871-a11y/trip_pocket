@@ -1,3 +1,10 @@
+
+
+
+
+
+<img width="1366" height="768" alt="Screenshot (746)" src="https://github.com/user-attachments/assets/6c0a5c74-939d-4c4f-8b0c-5491b8ccd239" />
+
 # trip_pocket
 
 A new Flutter project.
